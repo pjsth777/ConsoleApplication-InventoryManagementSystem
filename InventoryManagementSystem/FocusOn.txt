@@ -1,0 +1,11 @@
+﻿
+
+Learning Objectives:
+
+a) File I/O: Reading and Writing Inventory data to a file.
+b) Collections: Using lists and dictionaries for managing inventory.
+c) Exception Handling: Ensuring smooth operations with error handling.
+d) Class Design: Creating classes for products and managing inventory.
+e) Methods: CRUD operations (Create, Read, Update, Delete).
+f) Control Flow: Managing user input and application flow.
+
